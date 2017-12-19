@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Daniel",
+    "favoriteFood": "donuts",
+    "favoriteColor": "green",
+    "sex": "male",
+    "type": "animal"
+  },
+  {
+    "name": "Effie",
+    "favoriteFood": "donuts",
+    "favoriteColor": "green",
+    "sex": "female",
+    "type": "animal"
+  },
+  {
+    "name": "Henry",
+    "favoriteFood": "donuts",
+    "favoriteColor": "green",
+    "sex": "male",
+    "type": "animal"
+  },
+  {
+    "name": "Jeff",
+    "favoriteFood": "donuts",
+    "favoriteColor": "green",
+    "sex": "male",
+    "type": "animal"
+  },
+  {
+    "name": "Elga",
+    "favoriteFood": "donuts",
+    "favoriteColor": "green",
+    "sex": "female",
+    "type": "animal"
+  },
+  {
+    "name": "Woofie",
+    "favoriteFood": "donuts",
+    "favoriteColor": "green",
+    "sex": "female",
+    "type": "animal"
+  },
+  {
+    "name": "James",
+    "favoriteFood": "donuts",
+    "favoriteColor": "green",
+    "sex": "male",
+    "type": "animal"
+  },
+  {
+    "name": "Lilly",
+    "favoriteFood": "donuts",
+    "favoriteColor": "green",
+    "sex": "female",
+    "type": "animal"
+  },
+  {
+    "name": "Willie",
+    "favoriteFood": "donuts",
+    "favoriteColor": "green",
+    "sex": "male",
+    "type": "animal"
+  },
+  {
+    "name": "John",
+    "favoriteFood": "donuts",
+    "favoriteColor": "green",
+    "sex": "male",
+    "type": "animal"
+  },
+  {
+    "name": "Fredrick",
+    "favoriteFood": "donuts",
+    "favoriteColor": "green",
+    "sex": "male",
+    "type": "animal"
+  }
+]

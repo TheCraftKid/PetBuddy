@@ -2,8 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="pet-buddy_main" target="1.8" />
-      <module name="pet-buddy_test" target="1.8" />
+      <module name="PetBuddy_main" target="1.8" />
+      <module name="PetBuddy_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
